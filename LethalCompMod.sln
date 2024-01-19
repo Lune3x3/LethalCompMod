@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LethalCompMod", "LethalCompMod.csproj", "{CC8A7390-7E48-403F-A30A-A48C5C2AF22F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC8A7390-7E48-403F-A30A-A48C5C2AF22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC8A7390-7E48-403F-A30A-A48C5C2AF22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC8A7390-7E48-403F-A30A-A48C5C2AF22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC8A7390-7E48-403F-A30A-A48C5C2AF22F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {234A30EB-8C72-4028-AFA9-49F8F3D84C07}
+	EndGlobalSection
+EndGlobal
